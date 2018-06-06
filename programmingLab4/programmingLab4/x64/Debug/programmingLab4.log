@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  programmingLab4.cpp
+c:\users\olesya\source\repos\programminglab4\programminglab4\programminglab4.cpp(93): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\olesya\source\repos\programminglab4\programminglab4\programminglab4.cpp(118): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  programmingLab4.vcxproj -> C:\Users\Olesya\source\repos\programmingLab4\x64\Debug\programmingLab4.exe
